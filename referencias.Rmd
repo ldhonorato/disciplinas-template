@@ -54,9 +54,15 @@ output:
 <!-- - Hilborn, R; Mangel, M. -->
 <!--   [The ecological detective: confronting models with data](http://press.princeton.edu/titles/5987.html). -->
 <!--   Princeton University Press, 1997. -->
+- Huff, D.
+  [Como mentir com estatística](http://www.intrinseca.com.br/livro/624/).
+  Rio de Janeiro: Intrínseca, 2016.
 - Mlodinow, L.
   [O andar do bêbado. Como o acaso determina nossas vidas](http://zahar.com.br/livro/o-andar-do-b%C3%AAbado).
   Rio de Janeiro: Zahar, 2009.
 - Salsburg, D.
   [Uma senhora toma chá. Como a estatística revolucionou a ciência no século XX](http://www.zahar.com.br/livro/uma-senhora-toma-cha).
   Rio de Janeiro: Zahar, 2009.
+- Wheelan, C.
+  [Estatística: o que é, para que serve, como funciona](http://www.zahar.com.br/livro/estatistica).
+  Rio de Janeiro: Zahar, 2016.
