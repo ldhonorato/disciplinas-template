@@ -26,7 +26,6 @@ library(knitr)
 library(rmarkdown)
 render_site()
 ```
-4. Visualize o site local no navegador.
 
 ### Licença
 
