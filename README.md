@@ -11,9 +11,22 @@ Este repositório contém todo o material de aula e os arquivos
 necessários para gerar a página da disciplina, disponível em:
 (INSERIR LINK)
 
+### Para gerar o site
+
 O site é todo construído usando apenas o [R Markdown][], por isso, o
 código fonte está nos arquivos `Rmd`. Para gerar o site você precisará
 das versões mais recentes dos pacotes `rmarkdown` e `knitr`.
+
+1. Copie (ou fork) esse repositório
+2. Apague o diretório `site_libs/`
+3. Abra o R nesse diretório, carregue os pacotes e renderize o site com
+   `render_site()`
+```r
+library(knitr)
+library(rmarkdown)
+render_site()
+```
+4. Visualize o site local no navegador.
 
 ### Licença
 
