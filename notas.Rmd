@@ -1,0 +1,14 @@
+---
+title: "Notas"
+output:
+  html_document:
+    toc: false
+---
+
+```{r setup, include=FALSE}
+source("setup_knitr.R")
+```
+
+```{r pacotes, include=FALSE}
+library(knitr)
+```
