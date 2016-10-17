@@ -5,21 +5,15 @@ output:
     toc: false
 ---
 
-O curso nÃ£o prevÃª conteÃºdo computacional. Entretanto todo o conteÃºdo
-abordado pode ser tratado computacionalmente por planilhas eletrÃ´nicas
-(como por exemplo o LibreOffice), linguagens ou programas estatÃ­sticos.
+O curso prevê a simulação de circuitos digitais. Existem vários softwares disponíveis com essa finalidade, mas será utilizado o Multisim Blue.
 
-Nas pÃ¡ginas do curso, vocÃª verÃ¡ um botÃ£o escrito `Code` acima de algumas
-tabelas e grÃ¡ficos. Ao clicar nesse botÃ£o, Ã© revelado o cÃ³digo que foi
-utilizado para gerar aquele resultado, em linguagem R.
+Além das simuçações, também utilizaremos o software Multisim Blue para realizar layout, fabricação e montagem de placas de circuito impresso.
 
-O uso de programas computacionais pode auxiliar o entendimento do
-conteÃºdo do curso, e os cÃ³digos em R servem como ilustraÃ§Ã£o para os
-alunos interessados, mas nÃ£o serÃ¡ parte da avaliaÃ§Ã£o.
+O uso de simulações computacionais podem auxiliar o entendimento do conteúdo do curso e promover agilidade na prototipção de circuitos digitais.
 
-## Programa para estatÃ­stica
+## Programa para simulação e projeto de circuitos digitais
 
-- [The R project for Statistical Computing](http://www.r-project.org):
+- [Multisim Blue](http://www.r-project.org):
   pÃ¡gina do programa **R**
       - [Curso sobre o uso do R](sofware:material-r) no LEG
       - [R-rautu](http://git.leg.ufpr.br/fernandomayer/R-rautu) uma
@@ -29,19 +23,13 @@ alunos interessados, mas nÃ£o serÃ¡ parte da avaliaÃ§Ã£o.
       - [R-br](https://listas.inf.ufpr.br/cgi-bin/mailman/listinfo/r-br)
         Ã© a lista de discussÃ£o em portuguÃªs sobre o uso do R
 
-## Programas para matemÃ¡tica simbÃ³lica
-
-- [Wolfram alpha](http://www.wolframalpha.com)
-- [Maxima](http://maxima.sourceforge.net) (e interface
-  [wxmaxima](http://andrejv.github.com/wxmaxima/))
-- [Yacas](http://yacas.sourceforge.net)
 
 ## Outros recursos
 
-- [LibreOffice](https://pt-br.libreoffice.org) suÃ­te de programas
-  semelhante ao MS-Office (editor de texto, banco de dados, apresentaÃ§Ã£o
+- [LibreOffice](https://pt-br.libreoffice.org) suíte de programas
+  semelhante ao MS-Office (editor de texto, banco de dados, apresentação
   e planilha) gratuito
 - [Google sheets](https://www.google.com/sheets/about). Para instalar o
-  *add-on* de estatÃ­stica:
+  *add-on* de estatÃ?stica:
         - Add-Ons -> Get Add-Ons -> Procure por "Statistics" -> Procure
           o add-on de "Google Statisticians and Engineers"

@@ -1,5 +1,5 @@
 ---
-title: "Hist√≥rico das aulas do curso"
+title: "Aulas do curso"
 output:
   html_document:
     toc: false
@@ -9,15 +9,16 @@ output:
 source("setup_knitr.R")
 ```
 
-Abaixo o hist√≥rico de atividades realizadas em classe e atividades extra
+Abaixo o histÛrico de atividades realizadas em classe e atividades extra
 classe aplicadas.
 
-- **DD/MM**: Apresenta√ß√£o da disciplina.
+- **10/10**: ApresentaÁ„o da disciplina.
 
+<!--
 ## Exerc√≠cios
 
 - Lista 1: Assunto
-
+-->
 ## Notas
 
-As notas est√£o dispon√≠veis [nesta p√°gina](notas.html).
+As notas est„o disponÌveis no [QAcademico](https://academico.ifpb.edu.br/).

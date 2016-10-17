@@ -1,5 +1,5 @@
 ---
-title: "CE000 - Nome da Disciplina"
+title: "AUTOIND - LaboratÛrio de Sistemas Digitais"
 output:
   html_document:
     toc: false
@@ -8,49 +8,39 @@ output:
 ```{r setup, include=FALSE}
 source("setup_knitr.R")
 ```
-
+<!--
 [![Build Status](https://travis-ci.org/fernandomayer/disciplinas-template.svg)](https://travis-ci.org/fernandomayer/disciplinas-template)
 
-<!-- <div class="alert alert-danger" role="alert"> **ATEN√á√ÉO!** Aqui √© um -->
+ <div class="alert alert-danger" role="alert"> **ATEN√á√ÉO!** Aqui √© um -->
 <!-- espa√ßo para avisos. Comente quando n√£o utilizar. </div> -->
 
 # Detalhes da oferta da disciplina
 
-- **Curso:** Disciplina (T)
-- **Per√≠odo:** segundo semestre de 2016
-- **Professor Respons√°vel:** [Fernando de Pol Mayer][], ([LEG][]:
-  Laborat√≥rio de Estat√≠stica e Geoinforma√ß√£o)
-- **Hor√°rios e Locais:**
-    - Segunda, 13:30 - 15:10h, **EQ13**
-    - Quarta, 13:30 - 15:10h, **EQ13**
-- **Hor√°rios de atendimento do professor:**
-    - Ter√ßas e quintas, 14:00-18:00 (preferenciais). Outros hor√°rios
+<!-- - **Curso:** LaboratÛrio de Sistemas Digitiais -->
+- **PerÌodo:** 2016.2
+- **Professor Respons·vel:** [Leandro Honorato][]
+- **Hor·rio:** TerÁas das 9:45h ‡s 11:25h
+- **Local:** LaboratÛrio de EletrÙnica/Eletricidade
+- **Hor·rios de atendimento do professor:**
+    - TerÁas das 14:00-18:00 (preferenciais). Outros hor·rios
       podem ser agendados previamente por email.
-- **Monitores de CE-001 do Depto. de Estat√≠stica:**
-    - Local: **LABEST** (Laborat√≥rio de Estat√≠stica)
-    - Hor√°rios de atendimento aos alunos: verificar no LABEST
-- **Frequ√™ncia**: de acordo com as normas da Universidade, m√≠nimo de 75%
-- **Avalia√ß√£o**: ser√£o realizadas 3 provas durante o semestre
-    - As datas das provas ser√£o definidas conforme o andamento da
-      disciplina, mas ser√£o confirmadas com pelo menos uma semana de
-      anteced√™ncia.
-    - A m√©dia final ser√° a m√©dia simples das 3 provas (todas tem o mesmo
-      peso).
-- **Datas importantes:** De acordo com a [Resolu√ß√£o 49/15 - CEPE][]:
-    - **01/08**: In√≠cio do semestre letivo
-    - **12/12**: Final do semestre letivo
-    - **15/12-21/12**: Per√≠odo de exames
+- **FrequÍncia**: de acordo com as normas do IFPB, mÌnimo de 75%
+- **AvaliaÁ„o**: a disciplina contar· com trÍs avaliaÁıes:
+    - as duas primeiras notas ser„o relatÛrios das pr·ticas realizadas em laboratÛrio. 
+    - A terceira nota trata-se da execuÁ„o e apresentaÁ„o de um projeto final da disciplina.
+    - A mÈdia final ser· a mÈdia simples das 3 notas (todas tem o mesmo peso).
+- **Datas importantes:** [Calend·rio AcaÍmico IFPB-Cajazeiras][]
+    - **10/10/2016**: InÌcio do semestre letivo
+    - **24/12/2016 a 22/01/2017**: Recesso
+    - **23/01/2017**: ReinÌcio do semestre letivo
+    - **17/03/2017**: TÈrmino do semestre letivo
+    - **20/03/2017**: AvaliaÁ„o Final 
 
-# Programa/objetivos da disciplina
+# Objetivos da disciplina
 
-O objetivo desta disciplina √© capacitar os alunos em conceitos b√°sicos
-de estat√≠stica que permitam a interpreta√ß√£o de resultados de an√°lises e
-procedimentos estat√≠sticos, bem como a execu√ß√£o de procedimentos e
-an√°lises estat√≠stica b√°sicas. O curso compreende tr√™s grandes t√≥picos:
-
-- An√°lise descritiva e explorat√≥ria de dados
-- No√ß√µes de probabilidades e distribui√ß√µes de probabilidades
-- Introdu√ß√£o √† procedimentos de infer√™ncia estat√≠stica
+- Propiciar ao aluno verificar na pr·tica os conceitos de sistemas digitais. Ao final da disciplina o aluno ser· capaz de conhecer os principais componentes da lÛgica digital, utilizando no desenvolvimento de projetos alÈm de conseguir realizar manutenÁ„o em circuitos lÛgicos digitais.
+- Tornar o aluno capacitado a: 
+    - Apresentar e analisar a funcionalidade de circuitos digitais envolvendo o   conte˙do abordado na disciplina de Sistemas Digitais.
 
 <!-- - **Avalia√ß√£o**: sabatinas, aplicadas ao final de um m√≥dulo da disciplina -->
 <!--     - As sabatinas s√£o provas menores, e com conte√∫do espec√≠fico -->
@@ -66,6 +56,5 @@ an√°lises estat√≠stica b√°sicas. O curso compreende tr√™s grandes t√≥picos:
 
 <!-- links -->
 
-[Fernando de Pol Mayer]: https://fernandomayer.github.io
-[LEG]: http://www.leg.ufpr.br
-[Resolu√ß√£o 49/15 - CEPE]: http://www.ufpr.br/soc/descarregar_arquivo.php?cod=1064
+[Leandro Honorato]: https://fernandomayer.github.io
+[Calend·rio AcaÍmico IFPB-Cajazeiras]: http://www.ifpb.edu.br/cajazeiras/ensino/calendario-academico

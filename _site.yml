@@ -16,25 +16,25 @@ output:
       in_header: analytics.html
       after_body: footer.html
 navbar:
-  title: "CE000"
+  title: "Lab SD"
   left:
     - text: "Home"
       href: index.html
     - text: "Aulas"
       href: aulas.html
-    - text: "Referências"
+    - text: "Referencias"
       href: referencias.html
-    - text: "Programas"
+    - text: "Softwares"
       href: recursos.html
-    - text: "Materiais"
-      menu:
-      - text: "Tópico 1"
-      - text: "Página A"
-        href: pagA.html
-      - text: "----------"
-      - text: "Tópico 2"
-      - text: "Página B"
-        href: pagB.html
+#    - text: "Materiais"
+#      menu:
+#      - text: "Tópico 1"
+#      - text: "Página A"
+#        href: pagA.html
+#      - text: "----------"
+#      - text: "Tópico 2"
+#      - text: "Página B"
+#        href: pagB.html
   right:
     - text: GitHub
       icon: fa-github fa-lg
